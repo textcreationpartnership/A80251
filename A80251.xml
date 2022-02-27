@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Commons dis-deceiver: touching their deceitfull delatory evasions of a desired speedy treaty with the King; the onely expedient for a wished and happy peace in the kingdome. Containing 1. Answers to the reasons of the Commons, which they gave the Lords (at a conference July 25. 1648.) against a treaty. 2. Reasons why the Commons, rather then the Lords, are against a treaty. 3. Reasons to shew that it is safer and better, even for the Commons, to adventure on a treaty, then to hazard a new warre.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80251</idno>
+            <idno type="STC">Wing C5574</idno>
+            <idno type="STC">Thomason E457_3</idno>
+            <idno type="STC">ESTC R204960</idno>
+            <idno type="EEBO-CITATION">99864409</idno>
+            <idno type="PROQUEST">99864409</idno>
+            <idno type="VID">116638</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80251)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116638)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E457[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Commons dis-deceiver: touching their deceitfull delatory evasions of a desired speedy treaty with the King; the onely expedient for a wished and happy peace in the kingdome. Containing 1. Answers to the reasons of the Commons, which they gave the Lords (at a conference July 25. 1648.) against a treaty. 2. Reasons why the Commons, rather then the Lords, are against a treaty. 3. Reasons to shew that it is safer and better, even for the Commons, to adventure on a treaty, then to hazard a new warre.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug: 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116638:1" rendition="simple:additions"/>
+            <p>THE COMMONS Diſ-Deceiver: Touching their deceitfull delatory eva<g ref="char:EOLhyphen"/>ſions of a deſired ſpeedy Treaty with the King; the onely Expedient for a wiſhed and happy Peace in the Kingdome.</p>
+            <p>
+               <hi>CONTAINING</hi>
+               <list>
+                  <item>1. Anſwers to the Reaſons of the Commons, which they gave the Lords (at a Conference July 25. 1648.) againſt a Treaty.</item>
+                  <item>2. Reaſons why the Commons, rather then the Lords, are againſt a Treaty.</item>
+                  <item>3. Reaſons to ſhew that it is ſafer and better, even for the Commons, to adventure on a Treaty, then to hazard a new Warre.</item>
+               </list>
+            </p>
+            <q>
+               <bibl>PSAL. 26.4.</bibl>
+               <p>I have not dwelt with vain perſons: neither will I have fellowſhip with the deceitfull.</p>
+            </q>
+            <q>
+               <bibl>PSAL. 35.20.</bibl>
+               <p>For why? their communing is not for peace: but they imagine deceit<g ref="char:EOLhyphen"/>full words againſt them that <hi>would be</hi> quiet in the Land.</p>
+            </q>
+            <p>Printed in the Yeere 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:116638:2"/>
+            <head>Brief Anſwers to the ſeverall Reaſons given by the Commons at a Conference with the Lords, why they will have the three Bills ſent and ſigned by the King be<g ref="char:EOLhyphen"/>fore a Treaty.</head>
+            <div n="1" type="part">
+               <head>The Reaſons, as collected and printed by an eſpeciall Order of Parliament, are theſe:</head>
+               <p n="1">1. Reaſon. <hi>IF theſe Bills be not paſſed before the Treaty; the Parliament will leave their friends in ſuch a condition, as they cannot be able to de<g ref="char:EOLhyphen"/>fend them, who have ſtood for them.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> This Reaſon looks only to the defence of their friends, who have ſtood for them: and not to the defence of the King<g ref="char:EOLhyphen"/>dome, Church, and People, who keep and maintaine them.</p>
+               <p n="2">2. They ſay of their friends in generall; not qualifying them by juſt, honeſt, good; but be they what they will, (if their friends, who have ſtood to them in their wicked deſignes, tending to the unſupportable miſeries of the People,) yet theſe they muſt defend, be they who they will, or be they never ſo many.</p>
+               <p n="3">3. But if theſe friends deſerve, or are capable of, defence, why are not the Commons able to defend them in a Treaty? the Lords and your ſelves, for whom they have ſtood, being the Treaters or Judges (for the moſt part) in the caſe controverted.</p>
+               <p n="4">4. Stands this to honeſty or reaſon? that rather then not defend ſuch friends in unjuſt wayes, you will hazzard the declared good of the Kingdome, a Treaty? Me thinks with wiſe, juſt and good men, this ſhould not be urged as a Reaſon. But the ſecond happily will make amends for this, which is,</p>
+               <p n="2">2. Reaſon. <hi>If they prevaile who p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſſe on this Treaty, ſuch godly Di<g ref="char:EOLhyphen"/>vines who are placed by the Parliament, ſhall be put out, and ſcanda<g ref="char:EOLhyphen"/>lous Ministers reſtored to their places.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> Before I anſwer the Reaſon, I ſhall examine ſome paſſa<g ref="char:EOLhyphen"/>ges in the words and phraſes; as,</p>
+               <p n="1">1. Why they call themſelves not the Houſe, or Houſes in Par<g ref="char:EOLhyphen"/>liament, but the Parliament it ſelfe; which cannot be without the
+<pb n="2" facs="tcp:116638:3"/>
+King, who by our Lawes, (Sir <hi>Edw. Cook,</hi> M. St. <hi>Johns, Pym,</hi> &amp;c.) is the Head, the beginning and end of our Parliaments.</p>
+               <p n="2">2. That they whom the one or the other Houſe hath placed, are called Divines; as though they were the onely Divines, the learned in that profeſſion: and not ſo onely, but as though they are the only holy, upright, and therefore called the godly Divines.</p>
+               <p n="3">3. But the others whom they have put our, although for no other reaſon then that the other might be put in to ſerve the two Houſes, theſe and all theſe without exception, are but Miniſters, Servants, and that ſcandalous too: ſo that their Geeſe are Swans, white, godly Divines, all holy Phariſees; and all the reſt foule black birds, or ſcandalous, very Publicans.</p>
+               <p n="4">4. Where they ſay, theſe Miniſters ſhall be reſtored to their pla<g ref="char:EOLhyphen"/>ces, imply they not that theſe places are juſtly the Miniſters, and not lawfully belonging to their Divines?</p>
+               <p>But not to inſiſt on words and phraſes, what reaſon is there in this, that rather then their ſo called Divines ſhould leave what they unlawfully hold, or come to a triall (whether they be fitter to hold, or the other Miniſters to be reſtored) that we ſhall have no peace nor Treaty? <hi>Ahab</hi> that idolatrous bloody Tyrant was more juſt and reaſonable then theſe Reaſoners; for though he accounted the Prophet the troubler of Iſrael; yet he would treat, or put it to a triall, whether <hi>Elijah</hi> the Prophet, or <hi>Jezebels</hi> Prieſts were the bet<g ref="char:EOLhyphen"/>ter, and more deſerving for Gods Service; and not hazard all rather then put this to the triall.</p>
+               <p n="3">3. Reaſon. <hi>If we treat with the King about calling in His Ma<g ref="char:EOLhyphen"/>jeſties Declarations, wee give a great advantage to the King against our ſelves.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> If the Declarations on the Kings part be juſt, and ac<g ref="char:EOLhyphen"/>cording to Law, why not give the King leave to treat, whether he ſhould reca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l them? whereas if they be unjuſt, what need you fear, but that they ſhall be recalled?</p>
+               <p n="2">2. Nay, what need you feare, when as the King hath promiſed, ſo a peace may be ſetled, that be they never ſo juſt and lawfull on his part, yet for your ſakes he will recall them?</p>
+               <p n="3">3. But ſtill ſee, that as the other two Reaſons of a Treaty and Peace look'd upon their friends: ſo this minds only themſelves, and that ſo farre, that they will rather hazzard all, then adventure to give an advantage to the King, (as they ſay) againſt themſelves.</p>
+               <pb n="3" facs="tcp:116638:3"/>
+               <p n="4">4. Reaſon. <hi>If the three Bills be not paſſed; they give oportunity to have the power of Parliament queſtioned for all the blood ſpilt in the late warres, which never was queſtioned by any of his Majesties Pre<g ref="char:EOLhyphen"/>deceſſors.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi> 1. That the Parliament, <hi>(i.)</hi> the King &amp; the two Houſes have power to make warre, (wherein blood may be and is ſpilt) is out of queſtion.</p>
+               <p n="2">2. But grant that the two Houſes have without juſt power ſpilt ſo much blood: muſt we want peace rather then they ſhall heare of it, though without puniſhment.</p>
+               <p n="3">3. Or rather then the two Houſes ſhould be queſtioned, whether they have ſuch a power, muſt we be without a Treaty and Peace, and ſo fall into a new warre to the ſpilling of more blood? and muſt this ſtand for a Reaſon too?</p>
+               <p n="4">4 When they ſay the like was never queſtioned by any of his Majeſties Predeceſſors: we uſually ſay a Negative of fact cannot be proved, eſpecially in ſuch a caſe, and after ſo great revolution of yeares and times: therefore had the Reaſoners ſaid, the like hath not for ought we read, or find; it had been more modeſt and more worthy of beliefe, then to ſay the like never was.</p>
+               <p n="5">5 But if the like never was, the Reaſon may be, becauſe the like Rebellion or Warre never was in the times of any his Majeſties Predeceſſors. There hath been warres in the times of his Majeſties Predeceſſors, between Party and Party, who ſhould be the right Heire, and ſo ſhould enjoy the Crowne: or between the King and Barons, for obteining and upholding each others rights; and betwixt the King and the raſcality of the People, when thoſe the Taile would uſurp a power over the King the Head. But the like Warre as this: when after the King had redreſſed all their juſt grie<g ref="char:EOLhyphen"/>vances by ſo many Acts confirmed; when after he had given them more of his own juſt Rights from his Crowne, then ever King in this Land before him did; when after promiſe of granting more, and more then they ſhould in juſtice and reaſon demand; yet after all this, to proſecute him with warre; to defame him to the world by black and falſe aſperſions; to draw away the affections of the People; to impriſon and hazard his ſacred Perſon to the ma<g ref="char:EOLhyphen"/>lice or divelliſh rage of baſe and unworthy People: I ſay (and it appeares by our beſt Hiſtories) that the like of this was never known in the Reignes of any his Majeſties Predeceſſors: and there<g ref="char:EOLhyphen"/>fore in this reſpect well it may be ſaid, that the like ſpilling <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f
+<pb n="4" facs="tcp:116638:4"/>
+blood was never queſtioned by any of his Majeſties Predeceſſors. And then from hence, no more in reaſon can be concluded, then this or the like; That this act of theirs, being unparalell'd, it may with juſtice be queſtioned; though not to puniſh the preſent Actors, yet to keep after-times from acting the like. But out of queſtion it ſtands not with reaſon, that rather then it ſhould be queſtioned, how, or by whom ſo much blood hath been ſpilt, that therefore we ſhould have no Treaty, or peace; but go on, and ingage in a war, to the ſhedding of floods of innocent, and guiltleſſe blood.</p>
+               <p n="1">1. And by the way obſerve, what may in ſome ſort anſwer, con<g ref="char:EOLhyphen"/>fute, or deny theſe to be Reaſons: whereas the three Bills to be ſent and ſigned by the King, are,
+<list>
+                     <item>1. For the <hi>Militia.</hi>
+                     </item>
+                     <item>2. Religion and Church-government.</item>
+                     <item>3. For the recalling of his Majeſties Declarations, &amp;c.</item>
+                  </list>
+               </p>
+               <p>That there is not in all, nor in any part of their Reaſons, one word, or ſyllable, concerning Religion, or Government of the Church; although in their Proteſtation, Covenant, and Declarati<g ref="char:EOLhyphen"/>ons; they have uſually to deceive the People, put and profeſt Re<g ref="char:EOLhyphen"/>ligion and the Church in the firſt place, as the maine peece of their principall care and endeavour.</p>
+               <p n="2">2 Obſerve, whether in all their Reaſons, there be the leaſt care, or any mention of preſerving the Lawes of this Kingdome; of the Rights of the King; or ſafety of his Perſon; or of the Liberty and Propriety of the Subject; or of the Publke-weale; how to keep the Kingdome in wealth, ſafety, and honout, and to preſerve the People from effuſion of more blood.</p>
+               <p n="3">3 Obſerve, whether all and every particular in their Reaſons, do not ſpeak, or tend only to the maintenance of their unjuſt, un<g ref="char:EOLhyphen"/>limited, uſurped power in Parliaments; thereby inſtead of our good, certain, known Laws, to rule us by tyrannicall deſtructive Ordinan<g ref="char:EOLhyphen"/>ces; which are daily changeable; and certain only in this, that they tend to the maintenance of the power and profit only of them<g ref="char:EOLhyphen"/>ſelves and their friends, but to the diſgracing and debaſing the King and his Subject; and the impoveriſhing and ruining the People and Kingdome; or to keep themſelves, their wicked Inſtruments, and Adherents, not only from triall, or judgement, but from giving any anſwer, or account for all or any their unjuſtice, oppreſſion, purſing the Kingdomes money: but inſtead thereof, for want of a Treaty, to be able to defend themſelves and their Complices, in
+<pb n="5" facs="tcp:116638:4"/>
+the continuance and purſuit of all their wicked courſes. And had not the Divell (as we uſually ſay) owed them a ſhame, or rather had not God ſuffered them, for their many horrible ſins of groſſe hypocriſie, injuſtice, murder, oppreſſion, irreligion, to have blinded them, (who are ſo wiſe in their generation) could a man con<g ref="char:EOLhyphen"/>ceive that in all their reaſons they would have forgot the Worſhip of God; the Government of the Church; the good and ſafety of the King; the welfare of the Kingdome? but let all theſe ſink and ſwim, ſo they can provide but for themſelves, and for ſuch as they may ſtrengthen to ſtand by and for them.</p>
+               <p n="1">1. In concluſion and to ſumme up the ſtrength of theſe Reaſons: whether or to what end really do they tend, but <hi>ſelera ſeleribus tueri,</hi> to defend mainteine and continue their former exorbitant courſes; by a pretext of ſecuring themſelves and friends; and at the beſt the holding up of an uſurped power among themſelves; which cannot be but by an addition of injuſtice to injuſtice, blood to blood and ſinne to ſinne, untill ſinne become unmeaſureably ſinfull; and ſuch as can expect no better fruit then confuſion and deſtruction?</p>
+               <p n="2">2. What is the end of all their reaſoning, but to preferre the par<g ref="char:EOLhyphen"/>ticular beings, eſtates and powers of ſome private perſons, before the publike worſhip of God, the weale of three Kingdomes; which are in hazard, if not in a too neere certainty of ruine by a new warre.</p>
+               <p n="3">3. But that the Commons ſhould be the Reaſoners and Judges in this caſe, is moſt unjuſt and unreaſonable; for,</p>
+               <p>Judges ought to be men knowing the Law, and underſtand-throughly, and perfectly the caſes wherein they are to be Judges. Now in ſober ſadneſſe &amp; a little truth, tell me; are all they who have voices among the Commons, &amp; by whoſe voices theſe actions &amp; rea<g ref="char:EOLhyphen"/>ſons are maintained, are they I ſay all ſuch known men, in the Lawes of God, and man, of right reaſon, and beſt governing a Kingdome, as to be able to diſtinguiſh, vote, and judge in ſuch high points? And if you tell me that for matter of Religion and Church, they have the Aſſembly of Divines to inſtruct them, for matters of Law Gentlemen of the long robe, and for matters of State ſome wiſe and experienced Politick to guide them, and muſt I take this for a ſatisfactory anſwer that all is well done that is thus done, and vo<g ref="char:EOLhyphen"/>ted by ſuch ignaroes, for is it fit that he ſhouln ſit as Judge, who wanting knowledge of his owne, muſt rely upon the judgement of an other, and ſo make his conſcience ride upon another ſoules back.</p>
+               <p>
+                  <pb n="6" facs="tcp:116638:5"/>But grant that all the Commons were able in point of know<g ref="char:EOLhyphen"/>ledge to be Iudges, yet can we grant (that which is contrary to all reaſon, juſtice, and law) that parties to be judged ſhould be Judges? and who can deny, but that if not all, yet 9. or 8. or 7. parts of the whole Commons now voting are parties in this cauſe, wherein they take upon them to be Judges? for is not he in all reaſon, juſtice and law, held and taken to be a party, who either hath gain'd, doth gain, holds or hopes to gain by the caſe wherein he is to judge? For, is it not preſumed, and on good reaſon, that ſuch a man by his ſelf-love and proper intereſt, will forget upright Judgement, and leane to himſelfe in his own cauſe? And if this be granted, which cannot be denied, then tell me, how many either of their Aſſembly of Divines at Weſtminſter, or of their Gentlemen of the Long Robe in that Houſe, or of the wiſe men amongſt them, either have not had, or now have not offices, places or things of profit and pow<g ref="char:EOLhyphen"/>er, which they are unwilling to loſe, or be called to queſtion for the holding or abuſing of them? and I dare ſay, that of each hundred in the Houſe there are not twenty, but have had, or now have places of profit and honour, held by the power and continuance of this Parliament, either in Offices, ſequeſtred Eſtates, Lands of King, Queen, Prince, or Church, or in Pentions, Salaries, keeping of Parks, Forreſts, or the like; inſomuch that the words of the Prophet are here verified, Micha 3.11: <hi>The heads thereof judge for reward, and the Priests there<g ref="char:EOLhyphen"/>of teach for hire, and the Prophets thereof divine for money.</hi>
+               </p>
+               <p>
+                  <hi>Ob.</hi> But ſome happily will ſay, if theſe caſes debarre the Com<g ref="char:EOLhyphen"/>mons to be the Judges in this caſe, then we muſt leave all to the King, or who elſe ſhall be the Judge?</p>
+               <p>
+                  <hi>Reſp.</hi> I anſwer, that the right power of judging is knowne and diſcerned by the Commiſſion that grants and directs that power; and the Commiſſion (as it were in this caſe) muſt be the Writ (as it's called) of Summons to the Parliament; and when the Writ of calling the Commons is <hi>ad conſentiendum &amp; faciendum,</hi> to aſſent and doe, the Writ as Commiſſion to the Lords is <hi>ad tractandum &amp; impertiendum conſilium,</hi> and (with the King) <hi>ad judicandum de arduis negotiis, &amp;c.</hi> Whence I conceive I may rightly inferre, that the Lords, or eſpecially the Lords rather then the Commons, ſhould be Judges in this caſe; and if their judgement may be heard, then a Treaty without ſending the Propoſitions ſhould be had.</p>
+               <p>
+                  <pb n="7" facs="tcp:116638:5"/>Again, if it be required that Judges ſhould be free from partiality, to be led by affection, or intereſt: then I conceive, that though ſome of the Lords may be ſomwhat tainted here with: yet they are not ſo much infected, or not ſo many, and ſo deeply as theſe of the Commons are.</p>
+               <p>If I ſhould grant, that in our caſes, or at other times, the Commons in ſuch or the like caſe might Judge, as being the Repreſentees of the People in England: yet if it appeare that theſe Repreſentees have deceived the generall truſt, and have acted either to their own private or wicked publike-ends: why may not the people recall their grant, and reſume their own Power to Judge? add, that the Co<g ref="char:cmbAbbrStroke">̄</g>mons have decei<g ref="char:EOLunhyphen"/>ved their truſt is apparent, by their pointblank voting againſt, and croſſing the Petitions of London, other Counties, and the hearty deſire of the whole Kingdome for a Treaty.</p>
+               <p>
+                  <hi>Ob.</hi> But you will aske if this power of judging what is fit to be done, in this point of Treaty bee taken from the Commons, then who ſhall judge for the People?</p>
+               <p>
+                  <hi>Reſp.</hi> And I aske, who ſhall judge for them, the People, but the People themſelves? for the Commons were choſen but as Repreſentees for them; to put up from time to time, as ſodaine occaſion ſhould bee offered, the deſires and minds of the People; who could not at all times, and upon all occaſions be preſent themſelves: Whereas now in this Caſe, when the People both Underſtand, Petition, and call for Reliefe, if their Repreſentees will not heare, nor move, nor vote for them; why ſhould they not be heard ſpeaking them<g ref="char:EOLhyphen"/>ſelves: and I am ſure in the beginning of this Parliament, it was thus practiſed, and not long ſince declared by both Hou<g ref="char:EOLhyphen"/>ſes: That it is the proper byrth-right of the Subject to Pe<g ref="char:EOLhyphen"/>tition, that they may be heard; and accordingly they were, for a long time, to effect.</p>
+               <p>But if you now are againſt this popular way of pleaſing the many, by hearing their Petitions: which at firſt was held the right way, or the way to guide the two Houſes: then why ſuffer you not the People to heare their chiefe Magi<g ref="char:EOLhyphen"/>ſtrates, and wiſe-men, ſpeaking and moving for them: for, can it bee conceived that the People eight yeeres agoe (wrought by feare, favour, wine or money, to chooſe you
+<pb n="8" facs="tcp:116638:6"/>
+their Repreſentees) ſhould bee tied and bound up to defend, doe, and ſuffer; what you, all dayes of your lives, ſhall vote; though it bee never ſo wicked, un-juſt, or againſt them or the Kingdome.</p>
+               <p>Inſtead then of the Caſe, as put by the Reaſoners, I con<g ref="char:EOLhyphen"/>ceive the Caſe will bee this: That if no Treaty nor Peace can be had: then unavoidably muſt follow a decay of Trade; waſte of the Wealth and Men of this Kingdome; the confu<g ref="char:EOLhyphen"/>ſion of Religion, Law, and Juſtice, the neceſſary concomi<g ref="char:EOLhyphen"/>tants and conſequents of un-civill-Warre and Arbitrary Government.</p>
+               <p>And then the queſtion will and muſt be briefly this: Whe<g ref="char:EOLhyphen"/>ther in point of Religion, Law, Juſtice and Policie, all theſe ſhould bee certainly and neceſſarily brought on, rather then ſome few inconſiderable perſons, who have tranſgreſſed all Law by God and man, by falſe worſhip, taking Gods name in vaine, prophaning his holy-day, diſhonouring their pa<g ref="char:EOLhyphen"/>rent; by murther, theft, falſe witneſſing, ſhould bee put but in an hazard to anſwer for their tranſgreſſions? I ſay but in an hazard to anſwer their tranſgreſſions: For unleſſe theſe men ſhall bee willfully, and obſtinately ſet, to maintain, continue, and goe on in their former wicked wayes; they may have hope; nay they have a royall promiſe; and themſelves are able in the Treaty to make it good, to obteine a generall pardon for all; both for themſelves, their friends, and their ſo called Godly Divines.</p>
+               <p>And to make this grant, and pardon the more ſure, and binding; they ſhall not only have the words, and faithfull promiſe, and the aſſent of the King to an act in Parliament; but the concurrence of this, and the other two Kingdomes; many if not the moſt of which, are ingaged as well, though not ſo much, as theſe commons: So that there is nothing that they can object againſt this Pardon, and aſſurance, but that they cannot; which is indeed, that they will not truſt; and truſt they cannot, or will not; that they may hereby hold, and continue their uſurped power, and unjuſt gain; which in effect is as much as to ſay: Rather then they will forgoe theſe by a Treaty and Peace; they will plunge not only the People of this, but of the two other
+<pb n="9" facs="tcp:116638:6"/>
+Kingdomes; not only into an hazard, but into the certain loſſes of eſtates, and lives, and into a waſte if not an utter ru<g ref="char:EOLhyphen"/>ine and deſtruction of three Kingdoms: which the People of the three Kingdomes (if God ſhall pleaſe to endow them with Wiſdome, Judgement, and Reſolution) will not ſuffer, but will riſe, and joyne as one man to withſtand and prevent.</p>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>2.</hi> The Reaſons why the <hi>Commons</hi> are more averſe to a <hi>Treaty,</hi> and ſo to <hi>Peace,</hi> then the <hi>Lords;</hi> are e<g ref="char:EOLhyphen"/>ſpecially three; which hang upon theſe three cords, not eaſily to be broken <hi>(1.) Profit, (2.) Power, (3.) Reputation;</hi> in which the <hi>Commons</hi> gaine, and the <hi>Lords,</hi> in generall, loſe.</head>
+               <p>For the matter of Profit: ſome of the Commons by their art and power in Parliament, gaine yeerely many thouſands; divers get thouſands, and very few of them but by Of<g ref="char:EOLhyphen"/>fices, ſequeſtred-Eſtates, Pentions, keeping of Parkes, For<g ref="char:EOLhyphen"/>reſts; enjoying the Lands of <hi>King, Queene, Prince,</hi> and of the <hi>Church,</hi> have and receive good yeerely incomes: for it hath beene the policy of the leading men, to invite and perſwade ſome few men (once of reaſonable Conſciences and more modeſt Soules) to take ſuch Places and Lands, &amp;c. as before mentioned; thereby not only to keepe them ſilent from ſpeaking againſt their Leaders: but hereby to keep their mouthes open to cry <hi>I</hi> and <hi>No:</hi> and to ſo vote for, or againſt, what ſhall be directed by them, or as they heare <hi>Joller</hi> and <hi>Jumper</hi> mouthe it firſt: Wheras the Lords the while (though perhaps the Speaker, the Keeper of the Seale, ſome chiefe Committee-men and others, may gaine by Bribes) Yet ſuch Lords as have great revenues, by the continuall Taxes aſſeſſed, quartering of Souldiers, &amp;c. muſt eyther abate or allow their Tenants in their rents, and ſo at the yeeres end become looſers.</p>
+               <p>And if you object that this likewiſe befalls the Commons as well as the Lords. I anſwer, that the leaſt part of the Commons have any great ſtore of Lands: and thoſe who have; either by their power they can moderate and lighten
+<pb n="10" facs="tcp:116638:7"/>
+their taxes laid on their lands; or elſe they have recompence 3, 5, 10, 20. for one, by their other places, offices, or wayes of getting.</p>
+               <p>If therefore according to their ſelfe-denying Ordinance of 4. <hi>Aprill</hi> 1645. and their votes of the 10. of <hi>June</hi> 1647. thoſe Commons ſhould bee deprived of thoſe places, and wayes of gaining; and be left to beare their own charge; and which is worſt of all, to ſtand to the hazard, whether (when all profit ceaſeth) they might at laſt obteine a pardon? you ſhall find them forward enough; yea try them this way, and I dare warrant they ſhall out-mouth the Lords for a Treaty.</p>
+               <p>Eſpecially if you can but clip them of that power, which they have in ruling more then the Lords; or if it be but to take them off the power in ruling the Lords themſelves; for how immenſely, might I not ſay, how infinitely have the Commons in this Parliament extended their priviledge, and power beyond all meaſure and bound? not over and againſt the King, and all their fellow Subjects; but even over and a<g ref="char:EOLhyphen"/>gainſt the Lords too; for when (as it appeares by their ſeve<g ref="char:EOLhyphen"/>rall writs, which give and limit each of their powers) the Peeres are called to adviſe and councell the King; and the Commons to aſſent and doe what ſhall bee ſo adviſed; and when as the Commons, witneſſe Sir <hi>Ed. Cooke,</hi> are but as the grand Inqueſt to the Peers; who with the King are the only Judges; yet is it not ſo come to paſſe, that in this Parliament, when the Commons have firſt debated and voted; that they then have ſent to the Lords, willing them to concurre? and in caſe that they ſhould not, that then the names of the diſ<g ref="char:EOLhyphen"/>ſenting Lords ſhould bee tranſmitted to the Commons, and ſo by them to bee voted and declared enemies to the State? witneſſe the meſſage ſent to the Lords by an eminent Mem<g ref="char:EOLhyphen"/>ber of the Commons <hi>Jan.</hi> 1641. and when all power of ju<g ref="char:EOLhyphen"/>dicature is in the Lords houſe, by reaſon of the Kings ſitting there; and all Pardons of high nature doth belong only to the King: have not the Commons, witneſſe their late Or<g ref="char:EOLhyphen"/>der 17. <hi>July</hi> 1641. taken upon them to give ſentence upon the high inſurrection (as they call it) in Kent? and to grant, publiſh, and proclaim a Pardon to ſo many as they pleaſe? and all this without the Lords.</p>
+               <p>
+                  <pb n="11" facs="tcp:116638:7"/>And the Commons having thus Lorded it in power over the Peeres. it is eaſie to conceive, whether the Lords or Com<g ref="char:EOLhyphen"/>mons beare the greater ſway? or have the greater power in pleaſing or diſpleaſing, puniſhing or rewarding either Soul<g ref="char:EOLhyphen"/>dier, Committee-men or the Subject in generall?</p>
+               <p>Eſpecially when you conſider, what is generally obſerved, that when the Commons keepe to that which they call their Priviledge, not to bee impeached, ſequeſtred their places, or judged by the Peeres: yet the Peeres in this Parliament have been impeached, ſequeſtred, and ſentenc'd by the Com<g ref="char:EOLhyphen"/>mons.</p>
+               <p>Which being ſo, believe it, where the power is in ruling there will the opinion follow, of honouring and obeying, and by theſe two advantages of profit, and power, the Commons have gained to themſelves the 3. cord of reputa<g ref="char:EOLhyphen"/>tion, and eſteeme above the Lords, and therefore will bee, as hitherto they are, more averſe to the Treaty, and Peace then the Lords are, or will bee, inſomuch as they ſhall bee greater looſers then the Lords by this Treaty and Peace, and as greater in loſſe, ſo more in feare and danger then the Lords.</p>
+               <p>Not only in that they have over-powred and out-acted the Lords in the higheſt breach of Law and Loyalty, but in that they have given one to another ſuch large ſummes of the mo<g ref="char:EOLhyphen"/>ny of the Kindome, which by their own Ordinances ſhould have beene otherwiſe diſpoſed: and for this in a Treaty, ſome happily feare a queſtioning, and ſome, if they be able, a re<g ref="char:EOLhyphen"/>funding: Others may feare, and juſtly, that they ſhall bee called to a reckoning for the vaſt ſummes of money by them received, and not accounted for; except perchance in a cur<g ref="char:EOLhyphen"/>ſory way one to another: and what ſatisfaction can this bee to the true man, that the theeves have divided and accounted each to other the true mans goods? might I not adde that divers of them are, or juſtly might bee afraid of a Treaty; leaſt that they heare of the divers inſolencies, injuries, op<g ref="char:EOLhyphen"/>preſſions, bribes, yea and thefts committed by them, contra<g ref="char:EOLhyphen"/>ry not only to law, but to their own Ordinances.</p>
+               <p>And may I not yet add, the ſtrange never before heard of like priviledge; that for ſo many yeares, many of them have
+<pb n="12" facs="tcp:116638:8"/>
+kept themſelves from paying their juſt debts; yea and hazard<g ref="char:EOLhyphen"/>ing by the length of this Parliament the utter defrauding of their creditors for ever; there being a Statute of Limitation, 21. <hi>Jac. c.</hi> 16. which confines all ſuits to certain yeares, which this Parliament hath exceeded already: and by this meanes, all actions againſt theſe debtors (being Parliament men) are fruſtrate and void in Law; and who can or dare ſue a Parli<g ref="char:EOLhyphen"/>ament-man? leaſt hee bee either committed to priſon, whe<g ref="char:EOLhyphen"/>ther the debtor ought to bee ſent, or enjoyned to releaſe the debt; as ſome have beene conſtrained to doe this Parlia<g ref="char:EOLhyphen"/>ment.</p>
+               <p>Laſtly, The guilt and horror of Conſcience is ſo great and clamorous to many of the leading Grandees in this Parlia<g ref="char:EOLhyphen"/>ment, that they dare not truſt themſelves in a Treaty with the King, nor with God, or good men, and not, but only with an Army, and that of ſuch Souldiers as ſhall bee of their own choice and pay; who therefore will bee ready on all turnes, to proſecute their never ſo unjuſt, and diveliſh com<g ref="char:EOLhyphen"/>mands, bee they either againſt the King, the Kingdom, or God himſelfe? of all which wee have had too great, and too long wofull experience.</p>
+            </div>
+            <div n="3" type="part">
+               <head>
+                  <hi>3.</hi> Some brief Reaſons<g ref="char:punc">▪</g> ſhewing that it is ſafer &amp; better for this Kingdom &amp; the two houſes in Parliament to <hi>Treat</hi> with the <hi>King,</hi> though he will not ſigne the three Propoſi<g ref="char:EOLhyphen"/>tions before the <hi>Treaty:</hi> then to engage in a new warre, in Caſe the <hi>King</hi> ſhould refuſe the ſo joyning of them.</head>
+               <p>For 1. It's more then probable that the king wil not ſigne the Propoſitions before the Treaty: (1) Becauſe he hath alrea<g ref="char:EOLunhyphen"/>dy declared both his will and reaſons againſt the ſo ſigning of them; and that when hee had no ſuch hope or appearance of help and relief as now he hath: (2) Becauſe Hee knoweth the Kingdome of Scotland hath proteſted againſt his ſo ſigning theſe Propoſitions; and that the then Proteſtation is now again avowed in the late Declaration of their Eſtates to bee the ſence of their Kingdom: (3) Becauſe the Engliſh Lords in this Parliament have given &amp; publiſh't many ſtrong and unanſwerable reaſons againſt the ſending theſe Propoſi<g ref="char:EOLhyphen"/>tions before the Treaty: wherein they concur both with the
+<pb n="13" facs="tcp:116638:8"/>
+King, and the Kingdome of Scotland. (4) Becauſe not only the City of <hi>London,</hi> but the greateſt and moſt conſiderable Counties, Profeſſions, and conditions of men in this King<g ref="char:EOLhyphen"/>dome joyne in the preſſing a ſpeedy Treaty, without relation to the Propoſitions. (5) Becauſe the premitting theſe Pro<g ref="char:EOLhyphen"/>poſitions is urged and proſecuted mainly, if not only, by one Faction or Party, and is not ſeconded but by thoſe who are intereſſed by places of profit, and honour; or by feare of comming to an account or after reckoning. (6) Becauſe theſe two laſt parties, though joyned in one, yet cannot by the hundreth part anſwer the number and power of thoſe who will and are ready to oppoſe them in the three Kingdomes.</p>
+               <p n="2">2. And let thoſe who are apt to engage in a new Warre know, that as the fortune and ſucceſſe of all, even the beſt warres is doubtfull; ſo that the event of this at leaſt on their part is moſt hazardous; becauſe it is againſt the deſires, the ſafety, and good of three Kingdomes: all which will firſt, or laſt joyn together to maintaine their own deſired ſafety and good againſt that party; who ever, whoſe plots, deſignes, and arts ſo evidently appeare, tending to the confuſion and Deſtruction of the Church and Common-Wealth.</p>
+               <p n="3">3. But grant that the party, who are for a Warre rather then a Treaty, ſhould in a battell or two get the better: yet can they conceive that hereby the warre were ended, or that a peace, indempnity, or ſafety were concluded on their parts? No rather this would ſtirre up and inflame the peo<g ref="char:EOLhyphen"/>ple in three Kingdomes to more hot and bloody warres: and theſe muſt neceſſarily draw on a decay of trade, a waſting of the wealth, and men, and thereby hazarding the ruine of this Kingdom: for it cannot be imagined that three Kingdomes, or the greater part of them will reſt, and ly down to ſuffer the tyrany of one faction or Party, becauſe it hath once or twice overcome them in battell.</p>
+               <p n="4">4. Whereas if this party, who are for a warre rather then a Treaty, ſhould but once bee overcome and ſcattered in any one pitcht field or battell; it is not probable that they ſhould ever bee able to riſe, recruit again, and to ſtand in battell a<g ref="char:EOLhyphen"/>gainſt all their Opponents in three Kingdomes; who will bee as carefull to keep them, as they were willing to beate them, downe?</p>
+               <pb n="14" facs="tcp:116638:9"/>
+               <p n="5">5. And if this ſhould come to paſſe, that they were once beaten &amp; ſcattered; (1) then in what danger may they be, who have plotted, fomented, and maintained this warre? (2) in what caſe will all the Monopilizers of Offices and places of profit bee? (3) in what ſtate will not only the Exciſe and Committee-men be, of the ſeverall Counties? but even they of the two Houſes, for the many inſufferable injuries and oppreſſions laid on their fellow Subjects? (4) How may it fare with all thoſe who without any account have for ſo ma<g ref="char:EOLhyphen"/>ny yeares together ingroſſed the greateſt part of the wealth of this rich Kingdome? (5) Yea, may it not bee feared, that not only the Bills which in this Parliament might have beene yeelded unto, but thoſe Acts allready paſſed may ſuffer queſtion, oppoſition, or a repeale, as being obteined by fraud or force? (6) Nay, may it not hereafter weaken the honour, priviledge, and power of Parliaments for ever, when the power of this ſhall be conquered by the Sword?</p>
+               <p n="6">6. All which feares and daungers may readily bee taken away by Acts of Pardon and Oblivion; and theſe may as ea<g ref="char:EOLhyphen"/>ſily bee obteined and granted by a free-Treaty: I add by a free-Treaty; for if the King cannot obteine Liberty, nor a Treaty, unleſſe hee firſt ſigne the Propoſitions; then neither will this ſigning the Propoſitions bee of force to binde him, hee beeing not at Liberty at the time of ſigning: nor can the Treaty it ſelfe bee conſtrued free, becauſe it was obtei<g ref="char:EOLhyphen"/>ned and held <hi>per aſperte</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
